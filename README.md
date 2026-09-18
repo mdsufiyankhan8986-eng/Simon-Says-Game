@@ -5,7 +5,6 @@ The game generates a sequence of colors that the player needs to remember and re
 
 ## Live Demo
 https://mdsufiyankhan8986-eng.github.io/Simon-Says-Game/
-Coming Soon
 
 ## Features
 
