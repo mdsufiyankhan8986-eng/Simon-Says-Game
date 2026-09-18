@@ -4,7 +4,7 @@ Simon Says Game is an interactive browser-based memory game built using HTML, CS
 The game generates a sequence of colors that the player needs to remember and reproduce in the correct order. With each successful level, a new color is added to the sequence, making the game progressively more challenging.
 
 ## Live Demo
-
+https://mdsufiyankhan8986-eng.github.io/Simon-Says-Game/
 Coming Soon
 
 ## Features
